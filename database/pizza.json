@@ -1,19 +1,5 @@
 [
   {
-    "id": 1,
-    "ingredientes": ["tomate", "queso", "pepperoni"],
-    "nombre": "Pizza Pepperoni",
-    "precio": 12.99,
-    "tamaño": "Mediana"
-  },
-  {
-    "id": 2,
-    "ingredientes": ["tomate", "queso", "jamón", "hongos"],
-    "nombre": "Pizza Suprema",
-    "precio": 15.99,
-    "tamaño": "Grande"
-  },
-  {
     "id": 3,
     "ingredientes": ["tomate", "queso", "pollo", "cebolla"],
     "nombre": "Pizza de Pollo BBQ",
@@ -68,5 +54,19 @@
     "nombre": "Pizza de la Huerta",
     "precio": 14.99,
     "tamaño": "Grande"
+  },
+  {
+    "id": 11,
+    "ingredientes": ["tomate", "queso"],
+    "nombre": "la utn",
+    "precio": 1,
+    "tamaño": "grande"
+  },
+  {
+    "id": 123,
+    "ingredientes": ["tomate", "queso"],
+    "nombre": "pepito",
+    "precio": 1,
+    "tamaño": "grande"
   }
 ]
