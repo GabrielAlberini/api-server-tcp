@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "ingredientes": ["tomate", "queso", "pepperoni"],
+    "nombre": "Pizza Pepperoni",
+    "precio": 12.99,
+    "tamaño": "Mediana"
+  },
+  {
+    "id": 2,
+    "ingredientes": ["tomate", "queso", "jamón", "hongos"],
+    "nombre": "Pizza Suprema",
+    "precio": 15.99,
+    "tamaño": "Grande"
+  },
+  {
+    "id": 3,
+    "ingredientes": ["tomate", "queso", "pollo", "cebolla"],
+    "nombre": "Pizza de Pollo BBQ",
+    "precio": 17.99,
+    "tamaño": "Mediana"
+  },
+  {
+    "id": 4,
+    "ingredientes": ["tomate", "queso", "espinacas", "aceitunas"],
+    "nombre": "Pizza Vegetariana",
+    "precio": 14.99,
+    "tamaño": "Grande"
+  },
+  {
+    "id": 5,
+    "ingredientes": ["tomate", "queso", "champiñones", "salchichas"],
+    "nombre": "Pizza Carnívora",
+    "precio": 16.99,
+    "tamaño": "Mediana"
+  },
+  {
+    "id": 6,
+    "ingredientes": ["tomate", "queso", "atún", "maíz"],
+    "nombre": "Pizza Marinera",
+    "precio": 13.99,
+    "tamaño": "Grande"
+  },
+  {
+    "id": 7,
+    "ingredientes": ["tomate", "queso", "jamon", "huevo"],
+    "nombre": "Pizza Carbonara",
+    "precio": 18.99,
+    "tamaño": "Mediana"
+  },
+  {
+    "id": 8,
+    "ingredientes": ["tomate", "queso", "pepperoni", "salchichas"],
+    "nombre": "Pizza Mixta",
+    "precio": 19.99,
+    "tamaño": "Grande"
+  },
+  {
+    "id": 9,
+    "ingredientes": ["tomate", "queso", "pimientos", "aceitunas"],
+    "nombre": "Pizza Mediterránea",
+    "precio": 15.99,
+    "tamaño": "Mediana"
+  },
+  {
+    "id": 10,
+    "ingredientes": ["tomate", "queso", "calabacín", "berenjena"],
+    "nombre": "Pizza de la Huerta",
+    "precio": 14.99,
+    "tamaño": "Grande"
+  }
+]
